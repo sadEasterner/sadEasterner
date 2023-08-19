@@ -9,7 +9,7 @@
 
 - 📫 How to reach me(Don't do this either) **Hoseinseifig1380@gmail.com**
 
-- ⚡ Fun fact **I think I am NOT funny**
+- ⚡ Fun fact **I think I hate my self**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
