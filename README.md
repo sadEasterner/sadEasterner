@@ -9,7 +9,6 @@
 
 - 📫 How to reach me(Don't do this either) **Hoseinseifig1380@gmail.com**
 
-- ⚡ Fun fact I hate my self
 
 
 <p align="left">
