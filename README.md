@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">A sad frontend developer who is going to be a full-stack developer soon!🤯</p>
+<p align="left">A sad front-end developer who is going to be a full-stack developer soon!🤯</p>
 
 ###
 
