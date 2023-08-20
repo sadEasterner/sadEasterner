@@ -112,6 +112,6 @@
 
 ###
 
-<p align="left">Working at IrsaSoft as a frontend developer👨‍💻</p>
+<p align="left">Working at IrsaSoft as a front-end developer👨‍💻</p>
 
 ###
