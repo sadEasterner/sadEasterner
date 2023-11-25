@@ -12,7 +12,7 @@
 
 ###
 
-<p align="left">A sad front-end developer who is going to be a full-stack developer soon!🤯</p>
+<p align="left">A sad developer who hates bugs in any shape and form (real or virtual)</p>
 
 ###
 
