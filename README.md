@@ -24,7 +24,7 @@
 
 ###
 
-<p align="left">Javascript / Typescript / React Js / Html / Sass / Less / C# / Redux (RTK) / ASP.Net / Bootstrap /JQuery / Knockout Js/ nodeJS/ Express/ MongoDB/ Socket.IO / Material UI / tailwind CSS / sequelize</p>
+<p align="left">NextJs / Javascript / Typescript / React Js / Html / Sass / Less / C# / Redux (RTK) / ASP.Net / Bootstrap /JQuery / Knockout Js/ nodeJS/ Express/ MongoDB/ Socket.IO / Material UI / tailwind CSS / sequelize</p>
 
 ###
 
