@@ -63,7 +63,7 @@
 
 ###
 
-<p align="left">the links are below, but don't bother I won't answer 🙂</p>
+<p align="left">the links are below</p>
 
 ###
 
@@ -85,6 +85,6 @@
 
 ###
 
-<p align="left">Working at IrsaSoft as a front-end developer👨‍💻</p>
+<p align="left">Working as a front-end developer👨‍💻</p>
 
 ###
